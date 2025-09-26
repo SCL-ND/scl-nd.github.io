@@ -83,6 +83,12 @@
     ],
     "journal": [
         {
+            "authors": "Jiawei Zhang, Jialin Wang, Qi Wang, Yanchun Zhang, Weihong Han, Yangyang Mei, Yiyu Shi, Jian Zhuang, Meiping Huang, Xiaowei Xu",
+            "title": "Quantization-based Deep Diversified Ensemble for Medical Image Segmentation",
+            "venue": "Engineering Applications of Artificial Intelligence",
+            "year": 2025
+        },
+        {
             "authors": "Yifan Qin, Zheyu Yan, Dailin Gan, Jun Xia, Zixuan Pan, Wujie Wen, Xiaobo Sharon Hu, Yiyu Shi",
             "title": "NeFT: Negative Feedback Training to Improve Robustness of Compute-In-Memory DNN Accelerators",
             "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
