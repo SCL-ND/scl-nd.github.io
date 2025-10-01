@@ -83,6 +83,12 @@
     ],
     "journal": [
         {
+            "authors": "Zixuan Pan, Justin Sonneck, Dennis Nagel, Anja Hasenberg, Matthias Gunzer, Yiyu Shi and Jianxu Chen",
+            "title": "AutoQC: Diffusion Model for Automatic Quality Control in High-throughput Microscopy",
+            "venue": "Npj Imaging",
+            "year": 2025
+        },
+        {
             "authors": "Jiawei Zhang, Jialin Wang, Qi Wang, Yanchun Zhang, Weihong Han, Yangyang Mei, Yiyu Shi, Jian Zhuang, Meiping Huang, Xiaowei Xu",
             "title": "Quantization-based Deep Diversified Ensemble for Medical Image Segmentation",
             "venue": "Engineering Applications of Artificial Intelligence",
