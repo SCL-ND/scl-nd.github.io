@@ -840,6 +840,33 @@
     ],
     "conference": [
         {
+            "authors": "Zixuan Pan, Jun Xia, Zheyu Yan, Guoyue Xu, Yifan Qin, Xueyang Li, Yawen Wu, Zhenge Jia, Jianxu Chen, Yiyu Shi",
+            "title": "Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2025
+        },
+        {
+            "authors": "Xueyang Li, Zongren Wang, Yuliang Zhang, Zixuan Pan, Yu-Jen Chen, Nishchal Sapkota, Gelei Xu, Danny Chen, Yiyu Shi",
+            "title": "H-CNN-ViT: A Hierarchical Gated Attention Multi-Branch Model for Bladder Cancer Recurrence Prediction",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2025
+        },
+        {
+            "authors": "Zixuan Pan, Yu-Jen Chen, Jun Xia, Max Ficco, Jianxu Chen, Tsung-Yi Ho, Yiyu Shi",
+            "title": "Multi-Exit Class Activation Map Guided Feature Masking for Unsupervised Out-of-Distribution Detection in Medical Imaging",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2025,
+            "notes": "regular paper, acceptance rate 19.6%"
+        },
+        {
+            "authors": "Dawei Li, Tienan Chen, Yongqiang Cui, Xiaowei Xu, Yiyu Shi",
+            "title": "MGS-EP: Mask Guided Segmentation of Regional Wall with Expert Prior Pre-Decoupling",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2025,
+            "notes": "regular paper, acceptance rate 19.6%"
+        },
+
+        {
             "authors": "Ruiyang Qin, Dancheng Liu, Gelei Xu, Zheyu Yan, Chenhui Xu, Yuting Hu, X Sharon Hu, Jinjun Xiong, Yiyu Shi",
             "title": "Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge",
             "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
