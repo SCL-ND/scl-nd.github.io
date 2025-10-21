@@ -7,14 +7,7 @@
         ]
 
     },
-    {
-        "title": "Agentic AI for Alzheimer's Disease and Related Dementias",
-        "description": [
-            "Alzheimer’s disease and related dementias demand analyses that integrate genomics, proteomics, imaging, and clinical evidence, yet current workflows are manual, slow, and difficult to audit, which delays target discovery. We therefore propose an agentic AI platform that plans, executes, and critiques end-to-end ADRD studies while maintaining transparent reasoning and citations to reduce hallucination. The system unifies multimodal data, surfaces stable patterns linked to disease mechanisms, and iteratively proposes and evaluates causal hypotheses under human oversight to ensure clinical relevance, fairness, and reproducibility. By replacing fragmented processes with an autonomous, audit-ready workflow, the platform lowers barriers to advanced analysis, shortens iteration cycles, and broadens the search space for biomarkers and therapeutic targets. Aligned with national initiatives such as TREAT-AD, the platform complements existing discovery pipelines and interfaces with the AD Workbench to support secure, standards-based analyses. It produces decision-ready evidence that streamlines selection of targets beyond amyloid and tau, with outputs suitable for open Target Enabling Packages for the research community.",
-            "We aim to develop an automated, knowledge-grounded, reproducible platform with low technical barrier that will: (1) harmonize and process multi-omics and imaging data with standard pipelines; (2) generate testable ADRD target hypotheses from literature and pathway resources; (3) run integrative analyses across modalities and cohorts to evaluate hypotheses; (4) assemble evidence, quantify uncertainty, and produce Target Enabling Package reports."
-        ]
 
-    },
     {
         "title": "Hardware/Software Co-Exploration for Neural Architectures",
         "description": [
