@@ -1,5 +1,13 @@
 [
     {
+        "title": "Reminiscence Therapy System",
+        "description": [
+            "Alzheimer’s disease and related dementias (ADRD) often lead to cognitive decline and increased caregiving demands, underscoring the need for supportive, engaging interventions. This project develops an intelligent agent–based Reminiscence Therapy System that leverages automatic speech recognition (ASR), large language model (LLM) reasoning, online information retrieval, and text-to-speech (TTS) technologies to enable natural, conversational interaction. A Unity-based graphical interface featuring a virtual avatar provides an intuitive and empathetic medium for communication.",
+            "The system aims to promote cognitive engagement among individuals with ADRD while alleviating the emotional and logistical burden on caregivers. By combining multimodal dialogue, personalized memory prompts, and real-time information access, the platform fosters meaningful social interaction and supports sustained mental stimulation. Ultimately, this project explores how human-centered AI and embodied interfaces can enhance quality of life and caregiving efficiency in dementia care."
+        ]
+
+    },
+    {
         "title": "Agentic AI for Alzheimer's Disease and Related Dementias",
         "description": [
             "Alzheimer’s disease and related dementias demand analyses that integrate genomics, proteomics, imaging, and clinical evidence, yet current workflows are manual, slow, and difficult to audit, which delays target discovery. We therefore propose an agentic AI platform that plans, executes, and critiques end-to-end ADRD studies while maintaining transparent reasoning and citations to reduce hallucination. The system unifies multimodal data, surfaces stable patterns linked to disease mechanisms, and iteratively proposes and evaluates causal hypotheses under human oversight to ensure clinical relevance, fairness, and reproducibility. By replacing fragmented processes with an autonomous, audit-ready workflow, the platform lowers barriers to advanced analysis, shortens iteration cycles, and broadens the search space for biomarkers and therapeutic targets. Aligned with national initiatives such as TREAT-AD, the platform complements existing discovery pipelines and interfaces with the AD Workbench to support secure, standards-based analyses. It produces decision-ready evidence that streamlines selection of targets beyond amyloid and tau, with outputs suitable for open Target Enabling Packages for the research community.",
