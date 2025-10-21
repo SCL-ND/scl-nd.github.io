@@ -4,7 +4,9 @@
         "description": [
             "Alzheimer’s disease and related dementias (ADRD) often lead to cognitive decline and increased caregiving demands, underscoring the need for supportive, engaging interventions. This project develops an intelligent agent–based Reminiscence Therapy System that leverages automatic speech recognition (ASR), large language model (LLM) reasoning, online information retrieval, and text-to-speech (TTS) technologies to enable natural, conversational interaction. A Unity-based graphical interface featuring a virtual avatar provides an intuitive and empathetic medium for communication.",
             "The system aims to promote cognitive engagement among individuals with ADRD while alleviating the emotional and logistical burden on caregivers. By combining multimodal dialogue, personalized memory prompts, and real-time information access, the platform fosters meaningful social interaction and supports sustained mental stimulation. Ultimately, this project explores how human-centered AI and embodied interfaces can enhance quality of life and caregiving efficiency in dementia care."
-        ]
+        ],
+        "image": "images/ongoing_jiahao.jpg",
+        "caption": "Figure 1. AI based interactive system for ADRD."
 
     },
 
@@ -15,7 +17,7 @@
             "We aim to develop a full-stack tool to support co-exploration of neural architecture and hardware design from (1) optimization of fixed neural network on FPGAs; (2) FPGA-implementation aware NAS; (3) co-explore neural architectures on multiple FPGAs; (4) co-explore neural architecture on network-on-chip-based scalable hardware."
         ],
         "image": "images/ongoing_weiwen.png",
-        "caption": "Figure 1. Illustration of co-exploring neural architectures and hardware designs.",
+        "caption": "Figure 2. Illustration of co-exploring neural architectures and hardware designs.",
         "slides": "files/codesign-nas.pdf",
         "publications": [
             "Weiwen Jiang, Lei Yang, Edwin Sha, Qingfeng Zhuge, Shouzhen Gu, Yiyu Shi and Jingtong Hu, \"Hardware/Software Co-Exploration of Neural Architectures,\" IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (under review).",
@@ -33,7 +35,7 @@
             "We aim to develop a algorithm-system co-design framework to address the aforementioned challenges to support the development of personalized AI/ML on resource-constrained local-end hardware platforms. The framework ranges from 1) Optimizations on tiny deep model generalization; 2) Prior-incorported regulated deep model personalization; 3) AIGC-based self-supervised personalization; and 4) TinyML design paradigm."
         ],
         "image": "images/ongoing_zhenge.jpg",
-        "caption": "Figure 2. AIGC-based self-supervised personalization framework for implantable monitoring devices.",
+        "caption": "Figure 3. AIGC-based self-supervised personalization framework for implantable monitoring devices.",
         "publications": [
             "Zhenge Jia, Jianxu Chen, Xiaowei Xu, John Kheir, Jingtong Hu, Han Xiao, Sui Peng, Sharon Hu, Danny Chen, Yiyu Shi, “The Importance of Resource Awareness in Artificial Intelligence for Healthcare” in Nature Machine Intelligence (NMI), 2023.",
             "Zhenge Jia, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi, “Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators” in Nature Machine Intelligence (NMI), 2023.",
@@ -51,7 +53,7 @@
             "We aim to leverage the underlying structural information in medical image for SSL and propose several techniques (e.g., contrastive image synthesis, positional contrastive learning, BYOL-TracIN, etc.) to enhance its representation learning ability in the medical image field."
         ],
         "image": "images/ongoing_dewen.png",
-        "caption": "Figure 3. Positional Contrastive Learning.",
+        "caption": "Figure 4. Positional Contrastive Learning.",
         "publications": [
             "Xinrong Hu, Corey Wang and Yiyu Shi, \"Contrastive Image Synthesis and Self-supervised Feature Adaptation for Cross-Modality Biomedical Image Segmentation,\" International Conference on Computer Vision (ICCV) Workshop on Computer Vision for Automated Medical Diagnosis, 2023.",
             "Xinrong Hu, Yu-Jen Chen, Tsung-Yi Ho and Yiyu Shi, \"Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation,\" In Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023 (early accept, acceptance rate 14%).",
