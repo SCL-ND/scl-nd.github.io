@@ -83,6 +83,12 @@
     ],
     "journal": [
         {
+            "authors": "Gelei Xu, Yuying Duan, Jun Xia, Ching-Hao Chiu, Michael Lemmon, Wei Jin, Yiyu Shi",
+            "title": "Rethinking Fairness in Medical Imaging: Maximizing Group-Specific Performance with Application to Skin Disease Diagnosis",
+            "venue": "Medical Image Analysis",
+            "year": 2025
+        },
+        {
             "authors": "Zixuan Pan, Justin Sonneck, Dennis Nagel, Anja Hasenberg, Matthias Gunzer, Yiyu Shi, Jianxu Chen",
             "title": "AutoQC: Diffusion Model for Automatic Quality Control in High-throughput Microscopy",
             "venue": "Npj Imaging",
