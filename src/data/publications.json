@@ -110,7 +110,8 @@
             "authors": "Ruiyang Qin, Dancheng Liu, Chenhui Xu, Zheyu Yan, Zhaoxuan Tan, Zhenge Jia, Amir Nassereldine, Jiajie Li, Meng Jiang, Ahmed Abbasi, Jinjun Xiong, Yiyu Shi",
             "title": "Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices",
             "venue": "ACM Transactions on Design Automation of Electronic Systems",
-            "year": 2025
+            "year": 2025,
+            "notes": "(Editor's Pick)"
         },
         {
             "authors": "Dawei Li, Tienan Chen, Cong Liu, Liqi Liao, Shaoping Chen, Yongqiang Cui, Li Zhang, Yiyu Shi, Xiaowei Xu",
