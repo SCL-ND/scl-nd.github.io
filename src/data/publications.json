@@ -847,6 +847,12 @@
     ],
     "conference": [
         {
+            "authors": "Asif Ali Khan, Hadjer Benmeziane, Hamid Farzaneh, Joao Lima, William Simon, Yiyu Shi, Zheyu Yan, Abu Sebastian, X. Sharon Hu, Jeronimo Castrillon, Corey Lammie",
+            "title": "Hardware-Aware Compilation and Simulation for In-Memory Computing",
+            "venue": "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES)",
+            "year": 2025
+        },
+        {
             "authors": "Zixuan Pan, Jun Xia, Zheyu Yan, Guoyue Xu, Yifan Qin, Xueyang Li, Yawen Wu, Zhenge Jia, Jianxu Chen, Yiyu Shi",
             "title": "Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective",
             "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
