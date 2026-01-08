@@ -8,14 +8,8 @@
                 "homepage": "https://junxia95.github.io/",
                 "admission_year": "2023",
                 "research_interest": "Heterogeneous On-device Federated Learning and Trustworthy AI"
-            },
-            {
-                "name": "Shaocong Wang",
-                "image": "images/shaocong.jpg",
-                "homepage": "https://scholar.google.com/citations?user=NCj3MZoAAAAJ&hl=en",
-                "admission_year": "2024",
-                "research_interest": "Software/Hardware Co-design"
             }
+
         ]
     },
     {
@@ -116,6 +110,11 @@
                 "title": "Postdocs",
                 "people": [
                     {
+                        "name": "Shaocong Wang",
+                        "degree_info": "Postdoc",
+                        "first_job": "Assistant professor at Peking University Shenzhen Graduate School"
+                    },
+                    {
                         "name": "Zhenge Jia",
                         "degree_info": "Postdoc",
                         "first_job": "Full Professor at Shandong University"
@@ -173,7 +172,7 @@
                     {
                         "name": "Zhiding Liang",
                         "degree_info": "Ph.D. 2024",
-                        "first_job": "Assistant Professor at Rensselaer Polytechnic Institute"
+                        "first_job": "Assistant Professor at Rensselaer Polytechnic Institute, Current: Assistant Professor at Chinese University of Hong Kong"
                     },
                     {
                         "name": "Xinrong Hu",
