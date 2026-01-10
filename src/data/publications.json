@@ -83,6 +83,12 @@
     ],
     "journal": [
         {
+            "authors": "Zephan M. Enciso, Jianbo Liu, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qian, Zhenge Jia, Xiaobo Sharon Hu, Yiyu Shi, Michael Niemier, and Ningyuan Cao",
+            "title": "A 350 pW Implantable Ventricular Arrhythmia Detection Engine with Bayesian Uncertainty Quantification in 65 nm CMOS",
+            "venue": "IEEE Journal of Solid-State Circuits (JSSC)",
+            "year": 2026
+        },
+        {
             "authors": "Gelei Xu, Yuying Duan, Jun Xia, Ching-Hao Chiu, Michael Lemmon, Wei Jin, Yiyu Shi",
             "title": "Rethinking Fairness in Medical Imaging: Maximizing Group-Specific Performance with Application to Skin Disease Diagnosis",
             "venue": "Medical Image Analysis",
