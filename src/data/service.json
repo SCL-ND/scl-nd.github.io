@@ -1,22 +1,362 @@
 [
-    {
-        "year": "2014",
-        "content": "Chair, IEEE Rolla Subsection"
-    },
-    {
-        "year": "2012-2013",
-        "content": "Treasurer and Secretary, IEEE Rolla Subsection"
-    },
-    {
-        "year": "2010-2014",
-        "content": "Freshman Engineering Advisor"
-    },
-    {
-        "year": "2012-2014",
-        "content": "PRO Advisor"
-    },
-    {
-        "year": "2012-2014",
-        "content": "Radio Control Club Advisor"
-    }
+  {
+    "category": "SOCEITY COMMITTEE ASSIGNEMENTS",
+    "year": "2018-2021",
+    "content": "Education Chair, ACM Special Interest Group on Design Automation (SIGDA) Executive Committee"
+  },
+  {
+    "category": "SOCEITY COMMITTEE ASSIGNEMENTS",
+    "year": "2016-",
+    "content": "Publicity Committee, IEEE Technical Council on Electronic Design Automation"
+  },
+  {
+    "category": "SOCEITY COMMITTEE ASSIGNEMENTS",
+    "year": "2016-2018",
+    "content": "IEEE Smart Grid R&D Committee"
+  },
+  {
+    "category": "ORGANIZING/EXECUTIVE COMMITTEE ASSIGNEMENTS",
+    "year": "2021-",
+    "content": "Executive committee member, IEEE/ACM International Conference on Computer-Aided Design"
+  },
+  {
+    "category": "ORGANIZING/EXECUTIVE COMMITTEE ASSIGNEMENTS",
+    "year": "2020",
+    "content": "Publicity Co-chair, IEEE International Conference on Computer Design"
+  },
+  {
+    "category": "ORGANIZING/EXECUTIVE COMMITTEE ASSIGNEMENTS",
+    "year": "2018, 2020",
+    "content": "Special Session Co-Chair, IEEE SoC (System-on-Chip) Conference"
+  },
+  {
+    "category": "ORGANIZING/EXECUTIVE COMMITTEE ASSIGNEMENTS",
+    "year": "2015-2016",
+    "content": "ACM Student Research Competition at IEEE/ACM International Conference on Computer-Aided Design"
+  },
+  {
+    "category": "ORGANIZING/EXECUTIVE COMMITTEE ASSIGNEMENTS",
+    "year": "2016",
+    "content": "IEEE/ACM Design Automation Conference Ph.D. Form"
+  },
+  {
+    "category": "ORGANIZING/EXECUTIVE COMMITTEE ASSIGNEMENTS",
+    "year": "2014",
+    "content": "Special Session Chair, IEEE Computer Society Symposium on VLSI (ISVLSI)"
+  },
+  {
+    "category": "EVENT ORGANIZER",
+    "year": "2022",
+    "content": "TinyML Contest at IEEE/ACM International Conference on Computer-Aided Design, Chair (with 150+ teams from over 10 countries)"
+  },
+  {
+    "category": "EVENT ORGANIZER",
+    "year": "2018",
+    "content": "System Design Contest at IEEE/ACM Design Automation Conference, Chair (with 140+ teams from over 10 countries)"
+  },
+  {
+    "category": "EVENT ORGANIZER",
+    "year": "2017",
+    "content": "Hardware Design Contest at IEEE/ACM Design Automation Conference, Chair (with 30+ teams from over 10 countries)"
+  },
+  {
+    "category": "EVENT ORGANIZER",
+    "year": "2017",
+    "content": "ACM SIGDA Ph.D. Forum at Design Automation Conference, Chair"
+  },
+  {
+    "category": "EVENT ORGANIZER",
+    "year": "2015-2016",
+    "content": "ACM Student Research Competition at International Conference on Computer-Aided Design, Co-Chair (2015), Chair (2016)"
+  },
+  {
+    "category": "EVENT ORGANIZER",
+    "year": "2016",
+    "content": "ACM SIGDA Live (http://www.sigda.org/live), founder"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2016-2020",
+    "content": "IEEE Computer Society Annual Symposium on VLSI (ISVLSI), (Track chair 2018-2020)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2016-",
+    "content": "IEEE International Symposium on Quality Electronic Design (ISQED)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2014-2018",
+    "content": "IEEE Workshop on Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2016",
+    "content": "IEEE/ACM Design, Automation and Test in Europe (DATE)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2014-2016, 2018-",
+    "content": "IEEE/ACM Design Automation Conference (DAC)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2011-2013",
+    "content": "ACM International Symposium on Physical Design (ISPD)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2011-2016",
+    "content": "IEEE International Symposium on VLSI Design, Automation & Test (VLSI-DAT)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2011-2013",
+    "content": "IEEE Asia Symposium & Exhibits on Quality Electronic Design (ASQED)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2011-2014, 2016",
+    "content": "IEEE International Conference on Computer Design (ICCD)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2012",
+    "content": "ACM/IEEE International Workshop on Timing Issues (TAU)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2012-2014, 2018-2019",
+    "content": "ACM/IEEE International Conference on Computer-Aided Design (ICCAD)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2012-2016",
+    "content": "ACM/IEEE Design Automation Conference Ph.D. Form"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2014-2016",
+    "content": "ACM/IEEE Asia and South Pacific Design Automation Conference (ASPDAC), (Track chair 2016)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2013",
+    "content": "ACM/IEEE Asia and South Pacific Design Automation Conference (ASPDAC) Best Paper Selection Committee"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2013-2017",
+    "content": "SEMICON China, (TPC Co-chair 2016, TPC Chair 2017)"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2014",
+    "content": "IEEE International Symposium on VLSI Design and Test"
+  },
+  {
+    "category": "TECHNICAL PROGRAM COMMITTEE ASSIGNEMENTS",
+    "year": "2014",
+    "content": "ACM/IEEE Design Automation Conference Ph.D. Forum Best Paper Selection Committee"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "IEEE Transactions on Computer-Aided-Design of Integrated Circuits and Systems"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "IEEE Transactions on Neural Networks and Learning Systems"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "IEEE Transactions on Computers"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "IEEE Transactions on Very Large Scale Integrated Circuits and Systems"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "IEEE Transactions on Circuits and Systems I, and II"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "ACM Transactions on Design Automation of Electronic Systems"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "ACM Journal of Emerging Technologies in Computing"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "Elsevier Microelectronics Journal"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "Medical Image Analysis"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "Nature"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "Nature Electronics"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "",
+    "content": "Scientific Reports"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "2019",
+    "content": "UTSA Limited Submission DoD Basic Research Program for HBCU/MI"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "2024",
+    "content": "Natural Sciences and Engineering Research Council of Canada"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "2013, 2016, 2018-2025",
+    "content": "National Science Foundation"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "2020, 2022-2025",
+    "content": "Research Grants Council, Hong Kong"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "2024",
+    "content": "Dutch Research Council (DRC), Netherland"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "2021",
+    "content": "Israel Science Foundation (ISF), Israel"
+  },
+  {
+    "category": "REVIWER FOR JOURNALS/PROPOSALS",
+    "year": "2021",
+    "content": "Swiss National Science Foundation, Switzerland"
+  },
+  {
+    "category": "SESSION CHAIR/MODERATOR/",
+    "year": "2011, 2012",
+    "content": "ACM International Symposium on Physical Design (ISPD)"
+  },
+  {
+    "category": "SESSION CHAIR/MODERATOR/",
+    "year": "2011, 2012",
+    "content": "IEEE/ACM International Conference on Computer-aided Design (ICCAD)"
+  },
+  {
+    "category": "SESSION CHAIR/MODERATOR/",
+    "year": "2012",
+    "content": "IEEE/ACM Asia and South Pacific Design Automation Conference"
+  },
+  {
+    "category": "SESSION CHAIR/MODERATOR/",
+    "year": "2016",
+    "content": "IEEE/ACM Design, Automation and Test in Europe"
+  },
+  {
+    "category": "WORKSHOP/SPECIAL SESSION/PANEL ORGANIZER",
+    "year": "2020",
+    "content": "“Hardware Aware Learning for Medical Imaging and Computer Assisted Intervention,” Workshop at MICCAI"
+  },
+  {
+    "category": "WORKSHOP/SPECIAL SESSION/PANEL ORGANIZER",
+    "year": "2014",
+    "content": "“Reaching Beyond Device Scaling: CMOS Perspectives,” IEEE Computer Society Annual Symposium on VLSI (ISVLSI)"
+  },
+  {
+    "category": "WORKSHOP/SPECIAL SESSION/PANEL ORGANIZER",
+    "year": "2014",
+    "content": "“Memcomputing: the Cape of Good Hope”, IEEE/ACM Design, Automation & Test in Europe (DATE)"
+  },
+  {
+    "category": "WORKSHOP/SPECIAL SESSION/PANEL ORGANIZER",
+    "year": "2013",
+    "content": "DAC Workshop on Embedded Systems for Energy-Efficient Smart Infrastructure (ESSI)"
+  },
+  {
+    "category": "WORKSHOP/SPECIAL SESSION/PANEL ORGANIZER",
+    "year": "2012",
+    "content": "“Computing in the Random Noise: the Bad, the Good, and the Amazing Grace”, IEEE/ACM ICCAD"
+  },
+  {
+    "category": "WORKSHOP/SPECIAL SESSION/PANEL ORGANIZER",
+    "year": "2012",
+    "content": "“Design for Reconfigurability and Adaptivity: Device, Circuit and System Perspectives”, IEEE/ACM ASPDAC"
+  },
+  {
+    "category": "WORKSHOP/SPECIAL SESSION/PANEL ORGANIZER",
+    "year": "2011",
+    "content": "“Three-dimensional Stacking: Theories, Tools and Tapeouts”, IEEE SOC Design Conference (ISOCC)"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2026",
+    "content": "Yiyu Shi, “On-Device AI to Better Mobile and Implantable Devices in Healthcare,” Tutorial at IEEE/ACM ASPDAC"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2025",
+    "content": "Yiyu Shi, “Efficient Deployment of Large Language Models on Resource Constrained Edge Computing Platforms,” Tutorial at IEEE/ACM ASPDAC"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2024",
+    "content": "Masanori Hashimoto and Yiyu Shi, “Toward Robust Neural Network Computation on Emerging Crossbar-based Hardware and Digital Systems”, Tutorial at IEEE/ACM ASPDAC"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2014",
+    "content": "Yiyu Shi, “Short Course on More-than-Moore Technologies”, full-day short course at the 225th ECS Meeting"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2013",
+    "content": "Yiyu Shi, “Short Course on More-than-Moore Technologies: Are We Ready for the Showdown?”, Yuan Ze University"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2013",
+    "content": "Yiyu Shi and Guojie Luo, “Short Course on More-than-Moore Technologies”, half-day tutorial in IEEE VLSI-DAT"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2012",
+    "content": "Yiyu Shi, \"Order Statistics 101: from Horse Racing to At-Speed Testing,\" guest lecture for Yao Class, Tsinghua University"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2011",
+    "content": "Jun So Pak, Yiyu Shi and Kwang-Seong Choi, “3D IC Technologies”, embedded tutorial in IEEE EDAPS"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2010",
+    "content": "John F. Park, Martin D. F. Wong, Yao-Wen Chang, Yiyu Shi and Lei He, “Beyond-Die Designs: Solutions and Challenges”, embedded tutorial in IEEE/ACM ICCAD"
+  },
+  {
+    "category": "TUTORIALS/SHORT COURSES",
+    "year": "2010",
+    "content": "Yiyu Shi and Lei He, “2010 Short Courses for 3D IC Design, Modeling and Optimization\", National Tsing Hua University"
+  }
 ]
