@@ -2,13 +2,6 @@
     {
         "group": "Postdoc Scholars",
         "people": [
-            {
-                "name": "Jun Xia",
-                "image": "images/junxia.jpeg",
-                "homepage": "https://junxia95.github.io/",
-                "admission_year": "2023",
-                "research_interest": "Heterogeneous On-device Federated Learning and Trustworthy AI"
-            }
 
         ]
     },
@@ -109,6 +102,11 @@
             {
                 "title": "Postdocs",
                 "people": [
+                    {
+                        "name": "Jun Xia",
+                        "degree_info": "Postdoc",
+                        "first_job": "Hong Kong University of Science and Technology/ACCESS"
+                    },
                     {
                         "name": "Shaocong Wang",
                         "degree_info": "Postdoc",
