@@ -853,6 +853,12 @@
     ],
     "conference": [
         {
+            "authors": "Mingze Jiang, Xueyang Li, John Kheir, Alec Girten, Yiyu Shi",
+            "title": "LightRefine-PCXR: A Lightweight Refinement Framework for Efficient Medical Device Suppression in Pediatric Chest X-Rays",
+            "venue": "Medical Imaging with Deep Learning (MIDL)",
+            "year": 2026
+        },
+        {
             "authors": "Asif Ali Khan, Hadjer Benmeziane, Hamid Farzaneh, Joao Lima, William Simon, Yiyu Shi, Zheyu Yan, Abu Sebastian, X. Sharon Hu, Jeronimo Castrillon, Corey Lammie",
             "title": "Hardware-Aware Compilation and Simulation for In-Memory Computing",
             "venue": "International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES)",
