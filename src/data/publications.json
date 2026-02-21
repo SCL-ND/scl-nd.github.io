@@ -853,6 +853,13 @@
     ],
     "conference": [
         {
+            "authors": "Zixuan Pan, Kaiyuan Tang, Jun Xia, Yifan Qin, Lin Gu, Chaoli Wang, Jianxu Chen, Yiyu Shi",
+            "title": "SGI: Structured 2D Gaussians for Efficient and Compact Large Image Representation",
+            "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "year": 2026,
+            "notes": "acceptance rate 25%"
+        },
+        {
             "authors": "Mingze Jiang, Xueyang Li, John Kheir, Alec Girten, Yiyu Shi",
             "title": "LightRefine-PCXR: A Lightweight Refinement Framework for Efficient Medical Device Suppression in Pediatric Chest X-Rays",
             "venue": "Medical Imaging with Deep Learning (MIDL)",
