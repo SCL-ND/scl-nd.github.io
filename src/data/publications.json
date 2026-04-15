@@ -859,6 +859,12 @@
     ],
     "conference": [
         {
+            "authors": "Yuan Cao, Jiahao Zheng, Mark J. Seidman, Katrina Jo Coppedge, Jaydeep Chauhan, Jun Xia, Yiyu Shi, Malaz A. Boustani, Zhi Zheng",
+            "title": "Design of A Multimodal Interactive Reminiscence System for Older Adults with ADRD",
+            "venue": "International Conference of the IEEE Engineering in Medicine and Biology Society",
+            "year": 2026
+        },
+        {
             "authors": "Likai Pei, Jiahao Zheng, Xueji Zhao, Emilie Ye, Jianbo Liu, Hanqing Tao, Ming-Yen Lee, Ruiyang Qin, Yiyu Shi, Shimeng Yu, X. Sharon Hu, Ningyuan Cao",
             "title": "Probabilistic Memory Design for Efficient Trustworthy Edge Intelligence",
             "venue": "IEEE/ACM Design Automation Conference (DAC)",
@@ -869,7 +875,7 @@
             "title": "SGI: Structured 2D Gaussians for Efficient and Compact Large Image Representation",
             "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
             "year": 2026,
-            "notes": "acceptance rate 25%"
+            "notes": "Spotlight paper"
         },
         {
             "authors": "Mingze Jiang, Xueyang Li, John Kheir, Alec Girten, Yiyu Shi",
