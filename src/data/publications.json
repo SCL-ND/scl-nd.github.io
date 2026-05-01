@@ -83,13 +83,19 @@
     ],
     "journal": [
         {
-            "authors": "Gelei Xu, Xueyang Li, Yixiong Chen, Yuying Duan, Shuqing Wu, Haoxinran Yu, Ching-Hao Chiu, Juntong Ni, Ningzhi Tang, Toby Jia-Jun Li, Alan Yuille, Wei Jin, and Yiyu Shi",
+            "authors": "Quan Cheng, Qiufeng Li, Weirong Dong, Mingtao Zhang, Ruilin Zhang, Mingqiang Huang, Hao Yu, Yiyu Shi, Hiromitsu Awano, Takashi Sato, Mehdi Saligane, Longyang Lin, Masanori Hashimoto",
+            "title": "Frieren: A Fault-Tolerant Reconfigurable Energy-Efficient Computing Architecture with Enhanced Reliability in Harsh Environments",
+            "venue": "IEEE Transactions on Computers",
+            "year": 2026
+        },
+        {
+            "authors": "Gelei Xu, Xueyang Li, Yixiong Chen, Yuying Duan, Shuqing Wu, Haoxinran Yu, Ching-Hao Chiu, Juntong Ni, Ningzhi Tang, Toby Jia-Jun Li, Alan Yuille, Wei Jin, Yiyu Shi",
             "title": "A comprehensive survey of AI Agents in Healthcare",
             "venue": "Journal of Biomedical Informatics",
             "year": 2026
         },
         {
-            "authors": "Zephan M. Enciso, Jianbo Liu, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qian, Zhenge Jia, Xiaobo Sharon Hu, Yiyu Shi, Michael Niemier, and Ningyuan Cao",
+            "authors": "Zephan M. Enciso, Jianbo Liu, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qian, Zhenge Jia, Xiaobo Sharon Hu, Yiyu Shi, Michael Niemier, Ningyuan Cao",
             "title": "A 350 pW Implantable Ventricular Arrhythmia Detection Engine with Bayesian Uncertainty Quantification in 65 nm CMOS",
             "venue": "IEEE Journal of Solid-State Circuits (JSSC)",
             "year": 2026
