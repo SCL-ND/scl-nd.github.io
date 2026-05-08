@@ -865,6 +865,13 @@
     ],
     "conference": [
         {
+            "authors": "Gelei Xu, Haoran Fan, Yiyu Shi",
+            "title": "Group-Conditioned Representation Modulation for Fair Skin Disease Diagnosis",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2026,
+            "notes": "early accept, acceptance rate 9%"
+        },
+        {
             "authors": "Yuan Cao, Jiahao Zheng, Mark J. Seidman, Katrina Jo Coppedge, Jaydeep Chauhan, Jun Xia, Yiyu Shi, Malaz A. Boustani, Zhi Zheng",
             "title": "Design of A Multimodal Interactive Reminiscence System for Older Adults with ADRD",
             "venue": "International Conference of the IEEE Engineering in Medicine and Biology Society",
@@ -881,7 +888,7 @@
             "title": "SGI: Structured 2D Gaussians for Efficient and Compact Large Image Representation",
             "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
             "year": 2026,
-            "notes": "Acceptance rate 25%",
+            "notes": "acceptance rate 25%",
             "highlight": "Spotlight Paper"
         },
         {
