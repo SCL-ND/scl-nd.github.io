@@ -83,6 +83,12 @@
     ],
     "journal": [
         {
+            "authors": "Quan Cheng, Longyang Lin, Mingqiang Huang, Qiufeng Li, Zhengke Yang, Liuyao Dai, Hao Yu, Ruilin Zhang, Yu-Jen Chen, Yiyu Shi, Masanori Hashimoto",
+            "title": "A 22nm End-to-End Edge-AI Processor with Booth-Value-Confined Acceleration and Hardware-Aware Layer-Wise Model Deployment",
+            "venue": "IEEE Transactions on Very Large Scale Integration Systems",
+            "year": 2026
+        },
+        {
             "authors": "Quan Cheng, Qiufeng Li, Weirong Dong, Mingtao Zhang, Ruilin Zhang, Mingqiang Huang, Hao Yu, Yiyu Shi, Hiromitsu Awano, Takashi Sato, Mehdi Saligane, Longyang Lin, Masanori Hashimoto",
             "title": "Frieren: A Fault-Tolerant Reconfigurable Energy-Efficient Computing Architecture with Enhanced Reliability in Harsh Environments",
             "venue": "IEEE Transactions on Computers",
