@@ -871,6 +871,21 @@
     ],
     "conference": [
         {
+            "authors": "Qingyue Jiao, Jiahao Zheng, Jun Zhuang and Yiyu Shi",
+            "title": "Hierarchical Memory for Radiology Report Generation with Rich Context",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2026,
+            "notes": "acceptance rate 28%"
+        },
+        {
+            "authors": "Ching-Hao Chiu, Hao-Wei Chung, Gelei Xu, Xueyang Li, John Kheir, Pin-Yu Chen, Ahmed Abbasi, Yiyu Shi, Meysam Ghaffari, Carlos Morato",
+            "title": "Beyond Visual Forensics: Auditing Multimodal Robustness for Synthetic Medical Image Detection",
+            "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
+            "year": 2026,
+            "notes": "acceptance rate 28%"
+        },
+
+        {
             "authors": "Gelei Xu, Haoran Fan, Yiyu Shi",
             "title": "Group-Conditioned Representation Modulation for Fair Skin Disease Diagnosis",
             "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
