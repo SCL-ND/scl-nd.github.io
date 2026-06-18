@@ -871,6 +871,12 @@
     ],
     "conference": [
         {
+            "authors": "Ningzhi Tang, Chaoran Chen, Zihan Fang, Gelei Xu, Maria Dhakal, Yiyu Shi, Collin McMillan, Yu Huang, Toby Jia-Jun Li",
+            "title": "Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions",
+            "venue": "Conference on Automated Software Engineering (ASE)",
+            "year": 2026
+        },
+        {
             "authors": "Guangyu Meng, Pengfei Gu, Xueyang Li, Yiyu Shi, Erin Wolf Chambers, Danny Z Chen",
             "title": "TopoAgent: An Agentic Framework for Automated Topology Learning in Medical Imaging",
             "venue": "European Conference on Computer Vision (ECCV)",
