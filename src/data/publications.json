@@ -871,14 +871,21 @@
     ],
     "conference": [
         {
-            "authors": "Qingyue Jiao, Jiahao Zheng, Jun Zhuang and Yiyu Shi",
+            "authors": "Guangyu Meng, Pengfei Gu, Xueyang Li, Yiyu Shi, Erin Wolf Chambers, Danny Z Chen",
+            "title": "TopoAgent: An Agentic Framework for Automated Topology Learning in Medical Imaging",
+            "venue": "European Conference on Computer Vision (ECCV)",
+            "year": 2026,
+            "notes": "acceptance rate 27.5%"
+        },
+        {
+            "authors": "Qingyue Jiao, Jiahao Zheng, Jun Zhuang, Yiyu Shi",
             "title": "Hierarchical Memory for Radiology Report Generation with Rich Context",
             "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
             "year": 2026,
             "notes": "acceptance rate 28%"
         },
         {
-            "authors": "Ching-Hao Chiu, Hao-Wei Chung, Gelei Xu, Xueyang Li, John Kheir, Pin-Yu Chen, Ahmed Abbasi, Yiyu Shi, Meysam Ghaffari, Carlos Morato",
+            "authors": "Ching-Hao Chiu, Hao-Wei Chung, Gelei Xu, Xueyang Li, Pin-Yu Chen, John Kheir, Meysam Ghaffari, Carlos Morato, Ahmed Abbasi, Yiyu Shi",
             "title": "Beyond Visual Forensics: Auditing Multimodal Robustness for Synthetic Medical Image Detection",
             "venue": "Medical Image Computing and Computer Assisted Interventions (MICCAI)",
             "year": 2026,
