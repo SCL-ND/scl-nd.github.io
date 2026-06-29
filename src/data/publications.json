@@ -871,6 +871,12 @@
     ],
     "conference": [
         {
+            "authors": "Ningzhi Tang, David Meininger, Gelei Xu, Yiyu Shi, Yu Huang, Collin McMillan, Toby Jia-Jun Li",
+            "title": "NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation",
+            "venue": "ACM Symposium on User Interface Software and Technology (UIST)",
+            "year": 2026
+        },
+        {
             "authors": "Ningzhi Tang, Chaoran Chen, Zihan Fang, Gelei Xu, Maria Dhakal, Yiyu Shi, Collin McMillan, Yu Huang, Toby Jia-Jun Li",
             "title": "Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions",
             "venue": "Conference on Automated Software Engineering (ASE)",
