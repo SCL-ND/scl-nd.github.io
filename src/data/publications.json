@@ -871,6 +871,13 @@
     ],
     "conference": [
         {
+            "authors": "Jiahao Zheng, Yifan Qin, X. Sharon Hu, Yiyu Shi",
+            "title": "Turning Variability into Advantage: In-Memory TurboQuant for Efficient LLM Acceleration",
+            "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+            "year": 2026,
+            "notes": "invited paper"
+        },
+        {
             "authors": "Ningzhi Tang, David Meininger, Gelei Xu, Yiyu Shi, Yu Huang, Collin McMillan, Toby Jia-Jun Li",
             "title": "NaturalEdit: Code Modification through Direct Interaction with Adaptive Natural Language Representation",
             "venue": "ACM Symposium on User Interface Software and Technology (UIST)",
