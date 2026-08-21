@@ -871,8 +871,28 @@
     ],
     "conference": [
         {
+            "authors": "Guangxin Zhao, Jiahao Zheng, Malaz Boustani, Jaroslaw Nabrzyski, Yiyu Shi, Meng Jiang, Zhi Zheng",
+            "title": "ADRD-Bench: An LLM Benchmark for Alzheimer’s Disease and Related Dementias",
+            "venue": "Conference on Empirical Methods in Natural Language Processing",
+            "year": 2026,
+            "notes": "Findings"
+        },
+        {
+            "authors": "Ningzhi Tang, Chaoran Chen, Gelei Xu, Yiyu Shi, Yu Huang, Collin McMillan, Toby Jia-Jun Li",
+            "title": "How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions",
+            "venue": "Conference on Empirical Methods in Natural Language Processing",
+            "year": 2026
+        },
+        {
+            "authors": "Xiaolin Lin, Jingcun Wang, Olga Kondrateva, Yiyu Shi, Bing Li, Grace Li Zhang",
+            "title": "CompressKV: Semantic-Retrieval-Guided KV-Cache Compression for Resource-Efficient Long-Context LLM Inference",
+            "venue": "SuRE workshop at International Joint Conference on Artificial Intelligence (IJCAI) 2026",
+            "year": 2026,
+            "highlight": "Bestpaper Award"
+        },
+        {
             "authors": "Jiahao Zheng, Yifan Qin, X. Sharon Hu, Yiyu Shi",
-            "title": "Turning Variability into Advantage: In-Memory TurboQuant for Efficient LLM Acceleration",
+            "title": "Interface-Aware KV Cache Quantization for Dense On-Chip NVM in Long-Context LLM Decoding",
             "venue": "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
             "year": 2026,
             "notes": "invited paper"
@@ -910,7 +930,6 @@
             "year": 2026,
             "notes": "acceptance rate 28%"
         },
-
         {
             "authors": "Gelei Xu, Haoran Fan, Yiyu Shi",
             "title": "Group-Conditioned Representation Modulation for Fair Skin Disease Diagnosis",
@@ -976,7 +995,6 @@
             "year": 2025,
             "notes": "regular paper, acceptance rate 19.6%"
         },
-
         {
             "authors": "Ruiyang Qin, Dancheng Liu, Gelei Xu, Zheyu Yan, Chenhui Xu, Yuting Hu, X Sharon Hu, Jinjun Xiong, Yiyu Shi",
             "title": "Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge",
@@ -1979,6 +1997,20 @@
             "location": "Morocco"
         },
         {
+            "authors": "Xiaowei Xu, Qing Lu, Tianchen Wang, Jinglan Liu, Yu Hu, Yiyu Shi",
+            "title": "Efficient Hardware Implementation of Cellular Neural Networks with Powers-of-Two Based Incremental Quantization",
+            "venue": "Neuromorphic Computing Symposium",
+            "location": "Knoxville, Tennessee",
+            "year": 2017
+        },
+        {
+            "authors": "Zhongyang Liu, Shaoheng Luo, Xiaowei Xu, Yiyu Shi, Cheng Zhuo",
+            "title": "A Multi-Level Optimization Framework for Efficient FPGA-Based Cellular Neural Network Implementation",
+            "venue": "Neuromorphic Computing Symposium",
+            "location": "Knoxville, Tennessee",
+            "year": 2017
+        },
+        {
             "authors": "Travis Schulze, Kevin Kwiat, Charles Kamhoua and Yiyu Shi",
             "title": "RECORD: Temporarily Randomized Encoding of Combinational Logic for Resistance to Data Leakage from Hardware Trojan",
             "venue": "IEEE Asian Hardware Oriented Security and Trust Symposium",
@@ -2084,6 +2116,13 @@
             "year": 2015,
             "location": "Japan",
             "notes": "pp. 202–207"
+        },
+        {
+            "authors": "Yu-Wei Wu, Yiyu Shi, Sudip Roy, Tsung-Yi Ho",
+            "title": "Obstacle-Avoiding Wind Turbine Placement for Power-Loss and Wake-Effect Optimization",
+            "venue": "19th Workshop on Synthesis And System Integration of Mixed Information Technologies",
+            "location": "Taiwan",
+            "year": 2015
         },
         {
             "authors": "Khalid Al-Jabery, Donald C. Wunsch, Jinjun Xiong and Yiyu Shi",
@@ -2258,6 +2297,13 @@
             "notes": "pp. 509–514, acceptance rate 31%"
         },
         {
+            "authors": "Tao Wang, Chun Zhang, Jinjun Xiong, Yiyu Shi",
+            "title": "A Near-Optimal Statistical Framework for Noise Sensor Placement",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Lake Tahoe",
+            "year": 2013
+        },
+        {
             "authors": "Hui Geng, Yiyu Shi, Ming Dong and Runsheng Liu",
             "title": "A Mater-Slave SOC Structure for HMM Based Speech Recognition",
             "venue": "International Symposium on VLSI Design, Automation and Test (VLSI-DAT)",
@@ -2311,6 +2357,27 @@
             "year": 2012,
             "location": "Australia",
             "notes": "pp. 640–645, invited paper, acceptance rate 34.4%"
+        },
+        {
+            "authors": "Yu-Guang Chen, Yiyu Shi, Kuan-Yu Lai, Shih-Chieh Chang",
+            "title": "Efficient Retention Register Assignment for Power Gated Designs",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Taiwan",
+            "year": 2012
+        },
+        {
+            "authors": "Chung-Han Chou, Nien-Yu Tsai, Hao Yu, Jui-Hung Chien, Yiyu Shi, Shih-Chieh Chang",
+            "title": "On the Futility of Thermal Through-Silicon-Vias",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Taiwan",
+            "year": 2012
+        },
+        {
+            "authors": "Chung-Han Chou, Nien-Yu Tsai, Hao Yu, Che-Rung Lee, Yiyu Shi, Shih-Chieh Chang",
+            "title": "On the Preconditioner of Conjugate Gradient Method - A Power Grid Simulation Perspective",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Taiwan",
+            "year": 2012
         },
         {
             "authors": "Chiao-Ling Lung, Jui-Hung Chien, Yiyu Shi and Shih-Chieh Chang",
@@ -2396,6 +2463,20 @@
             "venue": "International Instrumentation and Measurement Technology Conference",
             "year": 2011,
             "location": "Hangzhou, China"
+        },
+        {
+            "authors": "Ming-Chao Lee, Yiyu Shi, Yu-Guang Chen, Shih-Chieh Chang, Diana Marculescu",
+            "title": "Efficient Wake-Up Scheduling for Multi-Core Systems",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Santa Babara",
+            "year": 2011
+        },
+        {
+            "authors": "Chiao-Ling Lung, Yu-Shih Su, Hsih-Hsiu Huang, Yiyu Shi, Shih-Chieh Chang",
+            "title": "Fault Tolerant 3D Clock Scheme",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Santa Babara",
+            "year": 2011
         },
         {
             "authors": "Yiyu Shi and Lei He",
@@ -2484,6 +2565,13 @@
             "location": "Japan",
             "notes": "pp. 373–378, acceptance rate 33%",
             "highlight": "Nominated for Best Paper Award (12/350)"
+        },
+        {
+            "authors": "Jinjun Xiong, Yiyu Shi, Vladimir Zolotov, Chandu Visweswariah",
+            "title": "Statistical Multilayer Process Space Coverage for At-Speed Test",
+            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
+            "location": "Austin",
+            "year": 2009
         },
         {
             "authors": "Yiyu Shi, Lei He and C.-J. Richard Shi",
@@ -2582,78 +2670,6 @@
             "year": 2006,
             "location": "Japan",
             "notes": "pp. 630–635, acceptance rate 42%"
-        }
-    ],
-    "workshop": [
-        {
-            "authors": "Xiaowei Xu, Qing Lu, Tianchen Wang, Jinglan Liu, Yu Hu, Yiyu Shi",
-            "title": "Efficient Hardware Implementation of Cellular Neural Networks with Powers-of-Two Based Incremental Quantization",
-            "venue": "Neuromorphic Computing Symposium",
-            "location": "Knoxville, Tennessee",
-            "year": 2017
-        },
-        {
-            "authors": "Zhongyang Liu, Shaoheng Luo, Xiaowei Xu, Yiyu Shi, Cheng Zhuo",
-            "title": "A Multi-Level Optimization Framework for Efficient FPGA-Based Cellular Neural Network Implementation",
-            "venue": "Neuromorphic Computing Symposium",
-            "location": "Knoxville, Tennessee",
-            "year": 2017
-        },
-        {
-            "authors": "Yu-Wei Wu, Yiyu Shi, Sudip Roy, Tsung-Yi Ho",
-            "title": "Obstacle-Avoiding Wind Turbine Placement for Power-Loss and Wake-Effect Optimization",
-            "venue": "19th Workshop on Synthesis And System Integration of Mixed Information Technologies",
-            "location": "Taiwan",
-            "year": 2015
-        },
-        {
-            "authors": "Tao Wang, Chun Zhang, Jinjun Xiong, Yiyu Shi",
-            "title": "A Near-Optimal Statistical Framework for Noise Sensor Placement",
-            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
-            "location": "Lake Tahoe",
-            "year": 2013
-        },
-        {
-            "authors": "Yu-Guang Chen, Yiyu Shi, Kuan-Yu Lai, Shih-Chieh Chang",
-            "title": "Efficient Retention Register Assignment for Power Gated Designs",
-            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
-            "location": "Taiwan",
-            "year": 2012
-        },
-        {
-            "authors": "Chung-Han Chou, Nien-Yu Tsai, Hao Yu, Jui-Hung Chien, Yiyu Shi, Shih-Chieh Chang",
-            "title": "On the Futility of Thermal Through-Silicon-Vias",
-            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
-            "location": "Taiwan",
-            "year": 2012
-        },
-        {
-            "authors": "Chung-Han Chou, Nien-Yu Tsai, Hao Yu, Che-Rung Lee, Yiyu Shi, Shih-Chieh Chang",
-            "title": "On the Preconditioner of Conjugate Gradient Method - A Power Grid Simulation Perspective",
-            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
-            "location": "Taiwan",
-            "year": 2012
-        },
-        {
-            "authors": "Ming-Chao Lee, Yiyu Shi, Yu-Guang Chen, Shih-Chieh Chang, Diana Marculescu",
-            "title": "Efficient Wake-Up Scheduling for Multi-Core Systems",
-            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
-            "location": "Santa Babara",
-            "year": 2011
-        },
-        {
-            "authors": "Chiao-Ling Lung, Yu-Shih Su, Hsih-Hsiu Huang, Yiyu Shi, Shih-Chieh Chang",
-            "title": "Fault Tolerant 3D Clock Scheme",
-            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
-            "location": "Santa Babara",
-            "year": 2011
-        },
-        {
-            "authors": "Jinjun Xiong, Yiyu Shi, Vladimir Zolotov, Chandu Visweswariah",
-            "title": "Statistical Multilayer Process Space Coverage for At-Speed Test",
-            "venue": "International Workshop on Timing Issues in the Specification and Synthesis of Digital Systems",
-            "location": "Austin",
-            "year": 2009
         }
     ]
 }
