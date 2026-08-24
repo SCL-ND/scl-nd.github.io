@@ -871,6 +871,13 @@
     ],
     "conference": [
         {
+            "authors": "Yuanbo Guo, Yiyu Shi",
+            "title": "FairAgent: An Agentic Optimization Framework for Joint Fairness and Efficiency Optimization on FPGAs",
+            "venue": "International Conference on Field Programmable Technology (FPT)",
+            "year": 2026,
+            "notes": "invited paper"
+        },
+        {
             "authors": "Guangxin Zhao, Jiahao Zheng, Malaz Boustani, Jaroslaw Nabrzyski, Yiyu Shi, Meng Jiang, Zhi Zheng",
             "title": "ADRD-Bench: An LLM Benchmark for Alzheimer’s Disease and Related Dementias",
             "venue": "Conference on Empirical Methods in Natural Language Processing",
