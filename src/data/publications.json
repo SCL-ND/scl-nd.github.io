@@ -871,6 +871,12 @@
     ],
     "conference": [
         {
+            "authors": "Pengyu Ren, Xingtian Wang, Likai Pei, Jiahao Zheng, Boyang Cheng, Jianbo Liu, Jiahui Duan, Sizhe Ma, Yixin Qin, Halid Mulaosmanovic、Stefan Duenkel, Jerome Mazurier, Sven Beyer, Thomas Kampfe, Yiyu Shi, X. Sharon Hu, Ningyuan Cao, Kai Ni",
+            "title": "Breaking the Entropy Wall: A Single-Transistor FDSOI Gaussian Random Number Generator Exploiting Band-to-Band Tunneling",
+            "venue": "International Electron Devices Meeting (IEDM)",
+            "year": 2026
+        },
+        {
             "authors": "Yuanbo Guo, Yiyu Shi",
             "title": "FairAgent: An Agentic Optimization Framework for Joint Fairness and Efficiency Optimization on FPGAs",
             "venue": "International Conference on Field Programmable Technology (FPT)",
