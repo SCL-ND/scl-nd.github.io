@@ -83,6 +83,12 @@
     ],
     "journal": [
         {
+            "authors": "Gelei Xu, Haoxinran Yu, Lixuan Wei, Yuxuan Liu, Dancheng Liu, Chenhui Xu, Jiajie Li, Ahmed Abbasi, Jinjun Xiong, Xiufan Yu, Zhi Zheng, Yiyu Shi, Ruiyang Qin",
+            "title": "Assessing the use of automatic speech recognition and large language models for individuals with language impairments",
+            "venue": "Nature Communications",
+            "year": 2026
+        },
+        {
             "authors": "Quan Cheng, Longyang Lin, Mingqiang Huang, Qiufeng Li, Zhengke Yang, Liuyao Dai, Hao Yu, Ruilin Zhang, Yu-Jen Chen, Yiyu Shi, Masanori Hashimoto",
             "title": "A 22nm End-to-End Edge-AI Processor with Booth-Value-Confined Acceleration and Hardware-Aware Layer-Wise Model Deployment",
             "venue": "IEEE Transactions on Very Large Scale Integration Systems",
