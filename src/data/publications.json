@@ -902,6 +902,13 @@
             "notes": "invited paper"
         },
         {
+            "authors": "Zhuoping Yang, Yiyu Shi, Alex Jones, Peipei Zhou",
+            "title": "ARIA: Agent-Assisted Runtime Interface Adaptation for FPGA Virtualization",
+            "venue": "International Conference on Field Programmable Technology (FPT)",
+            "year": 2026,
+            "notes": "invited paper"
+        },
+        {
             "authors": "Guangxin Zhao, Jiahao Zheng, Malaz Boustani, Jaroslaw Nabrzyski, Yiyu Shi, Meng Jiang, Zhi Zheng",
             "title": "ADRD-Bench: An LLM Benchmark for Alzheimer’s Disease and Related Dementias",
             "venue": "Conference on Empirical Methods in Natural Language Processing",
