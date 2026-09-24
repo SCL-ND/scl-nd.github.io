@@ -83,6 +83,12 @@
     ],
     "journal": [
         {
+            "authors": "Shaoshan Liu, Anina Schwarzenbach, Yiyu Shi",
+            "title": "Human Resilience in the AI Era: What Machines Can’t Replace",
+            "venue": "Computer",
+            "year": 2026
+        },
+        {
             "authors": "Gelei Xu, Haoxinran Yu, Lixuan Wei, Yuxuan Liu, Dancheng Liu, Chenhui Xu, Jiajie Li, Ahmed Abbasi, Jinjun Xiong, Xiufan Yu, Zhi Zheng, Yiyu Shi, Ruiyang Qin",
             "title": "Assessing the use of automatic speech recognition and large language models for individuals with language impairments",
             "venue": "Nature Communications",
@@ -876,6 +882,12 @@
         }
     ],
     "conference": [
+        {
+            "authors": "Xueyang Li, Mingze Jiang, Gelei Xu, Jun Xia, Ching-Hao Chiu, Mengzhao Jia, Danny Z. Chen, Yiyu Shi",
+            "title": "CRC-Router: Risk-Constrained Routing for Medical Agentic AI Systems",
+            "venue": "IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+            "year": 2026
+        },
         {
             "authors": "Pengyu Ren, Xingtian Wang, Likai Pei, Jiahao Zheng, Boyang Cheng, Jianbo Liu, Jiahui Duan, Sizhe Ma, Yixin Qin, Halid Mulaosmanovic、Stefan Duenkel, Jerome Mazurier, Sven Beyer, Thomas Kampfe, Yiyu Shi, X. Sharon Hu, Ningyuan Cao, Kai Ni",
             "title": "Breaking the Entropy Wall: A Single-Transistor FDSOI Gaussian Random Number Generator Exploiting Band-to-Band Tunneling",
