@@ -896,7 +896,7 @@
         },
         {
             "authors": "Yuanbo Guo, Yiyu Shi",
-            "title": "FairAgent: An Agentic Optimization Framework for Joint Fairness and Efficiency Optimization on FPGAs",
+            "title": "FairCompressAgent: An Agentic Framework for Fairness-Aware Model Compression for FPGA Deployment",
             "venue": "International Conference on Field Programmable Technology (FPT)",
             "year": 2026,
             "notes": "invited paper"
