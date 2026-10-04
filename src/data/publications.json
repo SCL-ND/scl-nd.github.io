@@ -83,6 +83,12 @@
     ],
     "journal": [
         {
+            "authors": "Gelei Xu, Yuying Duan, Jun Xia, Ruining Deng, Wei Jin, Yiyu Shi",
+            "title": "Patient-Conditioned Adaptive Offsets for Reliable Diagnosis across Subgroups",
+            "venue": "IEEE Transactions on Medical Imaging",
+            "year": 2026
+        },
+        {
             "authors": "Shaoshan Liu, Anina Schwarzenbach, Yiyu Shi",
             "title": "Human Resilience in the AI Era: What Machines Can’t Replace",
             "venue": "Computer",
