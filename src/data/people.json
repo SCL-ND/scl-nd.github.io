@@ -84,6 +84,13 @@
                 "homepage": "",
                 "admission_year": "2025",
                 "research_interest": "AI for Automated Analysis"
+            },
+            {
+                "name": "Sixue Xing",
+                "image": "images/sixuexing.png",
+                "homepage": "",
+                "admission_year": "2026",
+                "research_interest": "AI4Healthcare, LLM agents"
             }
 
         ]
